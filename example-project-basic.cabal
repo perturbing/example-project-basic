@@ -1,5 +1,5 @@
 cabal-version:      2.4
-name:               cardano-primes
+name:               example-project-basic.cabal
 version:            0.1.0.0
 
 author:             perturbing
