@@ -5,7 +5,7 @@ version:            0.1.0.0
 author:             perturbing
 maintainer:         thomas.vellekoop@iohk.io
 
-executable cardano-primes
+executable example-project-basic.cabal
     main-is:          Main.hs
     build-depends:    base ^>=4.14.3.0
                     , aeson
