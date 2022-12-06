@@ -32,5 +32,6 @@ in
                     pkgs.lzma
                     pkgs.glibcLocales
 		    pkgs.pkg-config
+                    pkgs.gmp
     ];
 }
