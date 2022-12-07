@@ -33,5 +33,6 @@ in
                     pkgs.glibcLocales
 		    pkgs.pkg-config
                     pkgs.gmp
+		    pkgs.postgresql
     ];
 }
